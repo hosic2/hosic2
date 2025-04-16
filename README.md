@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Juho%27s&desc=coding%0adiary%20&animation=fadeIn)
+
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2000&pause=1000&color=76A0F7&multiline=true&width=550&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%95%B8%EB%93%A4%EB%9F%AC+%EA%B9%80%EC%A3%BC%ED%98%B8%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
 
@@ -36,6 +36,6 @@
     <img src="https://img.shields.io/badge/mssql-217FEE?&logo=mssql&logoColor=white">
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=fadeIn)
+
 
 </div>
