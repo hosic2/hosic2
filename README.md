@@ -28,9 +28,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/amazon Redshift-8C4FFF?&logo=amazonredshift&logoColor=white">
-    <img src="https://img.shields.io/badge/snowflake-29B5E8?&logo=snowflake&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/sqlite-003B57?&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/postgresql-4169E1?&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-017CEE?&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/mssql-217FEE?&logo=mssql&logoColor=white">
