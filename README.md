@@ -1,15 +1,19 @@
-<div align="center">
+<div align="center">  
+
+## 😃 Profile
+
+**contact :** <a href="mailto:joohoo621@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rlawngh621/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://jh-codingdiary.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48F?style=flat-square&logo=vimeo&logoColor=white"/></a> 
+<br>
+<br>
 
 
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2000&pause=1000&color=76A0F7&multiline=true&width=550&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%95%B8%EB%93%A4%EB%9F%AC+%EA%B9%80%EC%A3%BC%ED%98%B8%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
-
-  
-### 🧐 Stack
+## 🧐 Skill
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/kql-123FAE?&logo=kql&logoColor=white">
 </p>
@@ -33,7 +37,28 @@
     <img src="https://img.shields.io/badge/oracle-017CEE?&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/mssql-217FEE?&logo=mssql&logoColor=white">
 </p>
+<br>
 
 
+> 💡 **Drive Real-world Impact with Data**
+## 🔥 Interest
+| With Data |
+|:------------------------:|
+| Engineering  |
+| Infra & CI/CD     |
+| IT Trends in Banking |
+<br>
 
+## 📑 Resume & Portfolio
+<p align="center">
+<a href="https://valuable-shoemaker-52a.notion.site/b2aba10993c64ecc927225d5fb9381ff" target="_blank">--- Notion ---</a><br>
+</p>
+
+<br>
+
+## 💻 Beakjoon
+<div align="center">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joohoo621" width="400">
+        <img src="http://mazandi.herokuapp.com/api?handle=joohoo621&theme=warm" width="400">
+       </div>
 </div>
