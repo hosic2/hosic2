@@ -41,7 +41,7 @@
 
 
 > 💡 **Drive Real-world Impact with Data**
-## 🔥 Interest
+## 🕵🏻‍♂️ Interest
 | With Data |
 |:------------------------:|
 | Engineering  |
