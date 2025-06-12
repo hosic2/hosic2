@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/kql-123FAE?&logo=kql&logoColor=white">
-</p>
+</p> 
 <p align="center">
     <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/prometheus-FF4000?&logo=prometheus&logoColor=white">
