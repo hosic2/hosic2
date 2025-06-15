@@ -12,7 +12,7 @@
   
 ## 📙 Skill
 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/kql-123FAE?&logo=kql&logoColor=white">
